@@ -12,13 +12,14 @@ const navItems = [
 
 export default function Navbar() {
   return (
+
     <nav className="bg-stone-900 text-white sticky top-0 z-50 shadow-md">
       <div className="max-w-7xl mx-auto px-4 flex justify-between items-center h-24">
         {/* Logo */}
         <div className="text-yellow-400 font-bold text-2xl">
           🥎 Softball League
         </div>
-
+        
         {/* Links */}
         <div className="hidden md:flex space-x-6">
           {navItems.map(({ name, path }) => (
@@ -38,5 +39,6 @@ export default function Navbar() {
         </div>
       </div>
     </nav>
-  );
+
+);
 }
