@@ -1,0 +1,3280 @@
+{
+  "BORRACHOS": [
+    {
+      "date": "Wednesday, March 26, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "CARNALES SPORTS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, March 28, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "CUBS/OUTLAWZ",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 2, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "NECIOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 4, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOBOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 11, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BREW CREW",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 23, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "CERVECEROS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 25, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "THUNDER",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 30, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "GOLDEN BOYS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 2, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BSB",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 7, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS PETROLEROS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 14, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "PERICOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 16, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "FLORES SOFTBALL",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 21, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "ANELLY TRANSPORT",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 23, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "SON'S OF PITCHES",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 30, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "SAN RAMON",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 4, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "MONSTERS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 6, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOS DIABLOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 11, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "ELECTRICOS QFS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 13, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS SOCIOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 18, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LA HIELERA",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 20, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BACKYARD BOYZ",
+      "homeOrAway": "Away"
+    }
+  ],
+  "CARNALES SPORTS": [
+    {
+      "date": "Wednesday, March 26, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BORRACHOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, March 28, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "ELECTRICOS QFS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 4, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOS SOCIOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 9, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LA HIELERA",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 11, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BACKYARD BOYZ",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 23, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS DIABLOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 25, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "CUBS/OUTLAWZ",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 30, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "NECIOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 2, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOBOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 7, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BREW CREW",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 9, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "CERVECEROS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 14, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "THUNDER",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 16, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "GOLDEN BOYS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 23, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BSB",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 28, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS PETROLEROS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 30, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "PERICOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 4, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "FLORES SOFTBALL",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 6, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "ANELLY TRANSPORT",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 13, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "SON'S OF PITCHES",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 18, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "SAN RAMON",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 20, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "MONSTERS",
+      "homeOrAway": "Home"
+    }
+  ],
+  "PERICOS": [
+    {
+      "date": "Wednesday, March 26, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "THUNDER",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, March 28, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "GOLDEN BOYS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 2, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BSB",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 9, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS PETROLEROS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 11, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOS DIABLOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 16, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "FLORES SOFTBALL",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 23, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "ANELLY TRANSPORT",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 25, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "SON'S OF PITCHES",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 30, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "SAN RAMON",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 9, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "MONSTERS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 14, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BORRACHOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 16, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "ELECTRICOS QFS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 21, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS SOCIOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 23, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LA HIELERA",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 28, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BACKYARD BOYZ",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 30, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "CARNALES SPORTS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 6, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "CUBS/OUTLAWZ",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 11, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "NECIOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 13, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOBOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 18, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BREW CREW",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 25, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "CERVECEROS",
+      "homeOrAway": "Away"
+    }
+  ],
+  "THUNDER": [
+    {
+      "date": "Wednesday, March 26, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "PERICOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 2, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "FLORES SOFTBALL",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 4, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "ANELLY TRANSPORT",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 9, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "SON'S OF PITCHES",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 11, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "SAN RAMON",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 23, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "MONSTERS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 25, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BORRACHOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 30, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "ELECTRICOS QFS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 2, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS SOCIOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 7, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LA HIELERA",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 9, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BACKYARD BOYZ",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 14, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "CARNALES SPORTS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 21, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "CUBS/OUTLAWZ",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 23, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "NECIOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 28, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOBOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 30, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BREW CREW",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 6, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "CERVECEROS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 11, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS DIABLOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 13, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "GOLDEN BOYS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 20, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BSB",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 25, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS PETROLEROS",
+      "homeOrAway": "Home"
+    }
+  ],
+  "LOS PETROLEROS": [
+    {
+      "date": "Wednesday, March 26, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "GOLDEN BOYS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, March 28, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BSB",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 4, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS DIABLOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 9, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "PERICOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 11, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "FLORES SOFTBALL",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 16, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "ANELLY TRANSPORT",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 23, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "SON'S OF PITCHES",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 25, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "SAN RAMON",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 2, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "MONSTERS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 7, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BORRACHOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 9, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "ELECTRICOS QFS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 14, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS SOCIOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 16, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LA HIELERA",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 21, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BACKYARD BOYZ",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 28, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "CARNALES SPORTS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 4, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "CUBS/OUTLAWZ",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 6, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "NECIOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 11, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOBOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 13, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BREW CREW",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 20, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "CERVECEROS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 25, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "THUNDER",
+      "homeOrAway": "Away"
+    }
+  ],
+  "GOLDEN BOYS": [
+    {
+      "date": "Wednesday, March 26, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS PETROLEROS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, March 28, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "PERICOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 4, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "FLORES SOFTBALL",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 9, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "ANELLY TRANSPORT",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 11, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "SON'S OF PITCHES",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 16, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "SAN RAMON",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 25, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "MONSTERS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 30, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BORRACHOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 2, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "ELECTRICOS QFS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 7, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS SOCIOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 9, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LA HIELERA",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 14, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BACKYARD BOYZ",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 16, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "CARNALES SPORTS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 23, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "CUBS/OUTLAWZ",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 28, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "NECIOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 30, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOBOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 4, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BREW CREW",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 11, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "CERVECEROS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 13, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "THUNDER",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 18, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS DIABLOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 25, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BSB",
+      "homeOrAway": "Home"
+    }
+  ],
+  "LOS DIABLOS": [
+    {
+      "date": "Wednesday, March 26, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BSB",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 2, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LA HIELERA",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 4, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS PETROLEROS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 9, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BACKYARD BOYZ",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 11, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "PERICOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 23, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "CARNALES SPORTS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 25, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "FLORES SOFTBALL",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 30, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "CUBS/OUTLAWZ",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 2, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "ANELLY TRANSPORT",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 7, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "NECIOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 9, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "SON'S OF PITCHES",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 16, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOBOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 21, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "SAN RAMON",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 23, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BREW CREW",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 30, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "MONSTERS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 4, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "CERVECEROS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 6, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BORRACHOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 11, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "THUNDER",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 13, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "ELECTRICOS QFS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 18, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "GOLDEN BOYS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 20, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS SOCIOS",
+      "homeOrAway": "Home"
+    }
+  ],
+  "BSB": [
+    {
+      "date": "Wednesday, March 26, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS DIABLOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, March 28, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS PETROLEROS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 2, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "PERICOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 9, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "FLORES SOFTBALL",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 11, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "ANELLY TRANSPORT",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 16, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "SON'S OF PITCHES",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 23, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "SAN RAMON",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 30, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "MONSTERS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 2, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BORRACHOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 7, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "ELECTRICOS QFS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 9, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOS SOCIOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 14, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LA HIELERA",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 16, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BACKYARD BOYZ",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 23, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "CARNALES SPORTS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 28, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "CUBS/OUTLAWZ",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 30, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "NECIOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 4, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOBOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 6, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BREW CREW",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 18, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "CERVECEROS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 20, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "THUNDER",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 25, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "GOLDEN BOYS",
+      "homeOrAway": "Away"
+    }
+  ],
+  "ANELLY TRANSPORT": [
+    {
+      "date": "Wednesday, March 26, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BREW CREW",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 2, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "CERVECEROS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 4, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "THUNDER",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 9, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "GOLDEN BOYS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 11, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BSB",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 16, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS PETROLEROS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 23, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "PERICOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 30, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "FLORES SOFTBALL",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 2, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS DIABLOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 7, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "SON'S OF PITCHES",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 9, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "SAN RAMON",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 16, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "MONSTERS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 21, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BORRACHOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 23, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "ELECTRICOS QFS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 28, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOS SOCIOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 30, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LA HIELERA",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 4, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BACKYARD BOYZ",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 6, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "CARNALES SPORTS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 13, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "CUBS/OUTLAWZ",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 20, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "NECIOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 25, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOBOS",
+      "homeOrAway": "Away"
+    }
+  ],
+  "BREW CREW": [
+    {
+      "date": "Wednesday, March 26, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "ANELLY TRANSPORT",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, March 28, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "SON'S OF PITCHES",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 2, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "SAN RAMON",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 4, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "MONSTERS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 11, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BORRACHOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 16, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "ELECTRICOS QFS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 23, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS SOCIOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 25, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LA HIELERA",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 30, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BACKYARD BOYZ",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 7, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "CARNALES SPORTS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 14, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "CUBS/OUTLAWZ",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 16, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "NECIOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 21, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOBOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 23, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS DIABLOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 28, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "CERVECEROS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 30, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "THUNDER",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 4, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "GOLDEN BOYS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 6, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BSB",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 13, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOS PETROLEROS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 18, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "PERICOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 25, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "FLORES SOFTBALL",
+      "homeOrAway": "Home"
+    }
+  ],
+  "MONSTERS": [
+    {
+      "date": "Wednesday, March 26, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "CUBS/OUTLAWZ",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, March 28, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "NECIOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 2, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOBOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 4, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BREW CREW",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 16, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "CERVECEROS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 23, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "THUNDER",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 25, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "GOLDEN BOYS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 30, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BSB",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 2, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOS PETROLEROS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 9, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "PERICOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 14, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "FLORES SOFTBALL",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 16, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "ANELLY TRANSPORT",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 21, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "SON'S OF PITCHES",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 28, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "SAN RAMON",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 30, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS DIABLOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 4, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BORRACHOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 6, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "ELECTRICOS QFS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 11, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS SOCIOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 13, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LA HIELERA",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 18, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BACKYARD BOYZ",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 20, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "CARNALES SPORTS",
+      "homeOrAway": "Away"
+    }
+  ],
+  "CUBS/OUTLAWZ": [
+    {
+      "date": "Wednesday, March 26, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "MONSTERS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, March 28, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BORRACHOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 2, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "ELECTRICOS QFS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 9, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS SOCIOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 11, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LA HIELERA",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 16, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BACKYARD BOYZ",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 25, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "CARNALES SPORTS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 30, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOS DIABLOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 2, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "NECIOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 9, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOBOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 14, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BREW CREW",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 16, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "CERVECEROS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 21, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "THUNDER",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 23, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "GOLDEN BOYS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 28, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BSB",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 4, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOS PETROLEROS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 6, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "PERICOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 11, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "FLORES SOFTBALL",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 13, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "ANELLY TRANSPORT",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 18, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "SON'S OF PITCHES",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 20, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "SAN RAMON",
+      "homeOrAway": "Home"
+    }
+  ],
+  "ELECTRICOS QFS": [
+    {
+      "date": "Wednesday, March 26, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BACKYARD BOYZ",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, March 28, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "CARNALES SPORTS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 2, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "CUBS/OUTLAWZ",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 4, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "NECIOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 9, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOBOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 16, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BREW CREW",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 25, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "CERVECEROS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 30, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "THUNDER",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 2, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "GOLDEN BOYS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 7, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BSB",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 9, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS PETROLEROS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 16, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "PERICOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 21, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "FLORES SOFTBALL",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 23, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "ANELLY TRANSPORT",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 30, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "SON'S OF PITCHES",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 4, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "SAN RAMON",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 6, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "MONSTERS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 11, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BORRACHOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 13, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS DIABLOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 18, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS SOCIOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 20, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LA HIELERA",
+      "homeOrAway": "Away"
+    }
+  ],
+  "BACKYARD BOYZ": [
+    {
+      "date": "Wednesday, March 26, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "ELECTRICOS QFS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 2, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS SOCIOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 4, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LA HIELERA",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 9, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOS DIABLOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 11, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "CARNALES SPORTS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 16, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "CUBS/OUTLAWZ",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 23, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "NECIOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 25, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOBOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 30, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BREW CREW",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 7, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "CERVECEROS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 9, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "THUNDER",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 14, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "GOLDEN BOYS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 16, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BSB",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 21, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS PETROLEROS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 28, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "PERICOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 30, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "FLORES SOFTBALL",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 4, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "ANELLY TRANSPORT",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 11, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "SON'S OF PITCHES",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 13, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "SAN RAMON",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 18, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "MONSTERS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 20, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BORRACHOS",
+      "homeOrAway": "Home"
+    }
+  ],
+  "SAN RAMON": [
+    {
+      "date": "Wednesday, March 26, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "NECIOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, March 28, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOBOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 2, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BREW CREW",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 9, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "CERVECEROS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 11, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "THUNDER",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 16, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "GOLDEN BOYS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 23, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BSB",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 25, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS PETROLEROS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 30, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "PERICOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 7, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "FLORES SOFTBALL",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 9, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "ANELLY TRANSPORT",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 14, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "SON'S OF PITCHES",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 21, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOS DIABLOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 28, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "MONSTERS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 30, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BORRACHOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 4, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "ELECTRICOS QFS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 6, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS SOCIOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 11, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LA HIELERA",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 13, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BACKYARD BOYZ",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 18, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "CARNALES SPORTS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 20, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "CUBS/OUTLAWZ",
+      "homeOrAway": "Away"
+    }
+  ],
+  "NECIOS": [
+    {
+      "date": "Wednesday, March 26, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "SAN RAMON",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, March 28, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "MONSTERS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 2, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BORRACHOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 4, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "ELECTRICOS QFS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 11, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS SOCIOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 16, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LA HIELERA",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 23, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BACKYARD BOYZ",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 30, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "CARNALES SPORTS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 2, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "CUBS/OUTLAWZ",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 7, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS DIABLOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 14, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOBOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 16, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BREW CREW",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 21, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "CERVECEROS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 23, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "THUNDER",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 28, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "GOLDEN BOYS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 30, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BSB",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 6, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS PETROLEROS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 11, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "PERICOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 18, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "FLORES SOFTBALL",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 20, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "ANELLY TRANSPORT",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 25, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "SON'S OF PITCHES",
+      "homeOrAway": "Home"
+    }
+  ],
+  "SON'S OF PITCHES": [
+    {
+      "date": "Wednesday, March 26, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOBOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, March 28, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BREW CREW",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 4, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "CERVECEROS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 9, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "THUNDER",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 11, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "GOLDEN BOYS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 16, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BSB",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 23, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS PETROLEROS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 25, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "PERICOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 2, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "FLORES SOFTBALL",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 7, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "ANELLY TRANSPORT",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 9, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS DIABLOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 14, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "SAN RAMON",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 21, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "MONSTERS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 23, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BORRACHOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 30, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "ELECTRICOS QFS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 4, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS SOCIOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 6, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LA HIELERA",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 11, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BACKYARD BOYZ",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 13, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "CARNALES SPORTS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 18, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "CUBS/OUTLAWZ",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 25, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "NECIOS",
+      "homeOrAway": "Away"
+    }
+  ],
+  "LOBOS": [
+    {
+      "date": "Wednesday, March 26, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "SON'S OF PITCHES",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, March 28, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "SAN RAMON",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 2, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "MONSTERS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 4, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BORRACHOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 9, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "ELECTRICOS QFS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 16, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOS SOCIOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 23, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LA HIELERA",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 25, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BACKYARD BOYZ",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 2, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "CARNALES SPORTS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 9, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "CUBS/OUTLAWZ",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 14, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "NECIOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 16, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOS DIABLOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 21, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BREW CREW",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 23, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "CERVECEROS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 28, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "THUNDER",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 30, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "GOLDEN BOYS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 4, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BSB",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 11, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS PETROLEROS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 13, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "PERICOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 20, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "FLORES SOFTBALL",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 25, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "ANELLY TRANSPORT",
+      "homeOrAway": "Home"
+    }
+  ],
+  "FLORES SOFTBALL": [
+    {
+      "date": "Friday, March 28, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "CERVECEROS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 2, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "THUNDER",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 4, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "GOLDEN BOYS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 9, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BSB",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 11, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS PETROLEROS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 16, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "PERICOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 25, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOS DIABLOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 30, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "ANELLY TRANSPORT",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 2, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "SON'S OF PITCHES",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 7, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "SAN RAMON",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 14, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "MONSTERS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 16, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BORRACHOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 21, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "ELECTRICOS QFS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 23, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS SOCIOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 28, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LA HIELERA",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 30, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BACKYARD BOYZ",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 4, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "CARNALES SPORTS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 11, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "CUBS/OUTLAWZ",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 18, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "NECIOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 20, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOBOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 25, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BREW CREW",
+      "homeOrAway": "Away"
+    }
+  ],
+  "CERVECEROS": [
+    {
+      "date": "Friday, March 28, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "FLORES SOFTBALL",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 2, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "ANELLY TRANSPORT",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 4, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "SON'S OF PITCHES",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 9, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "SAN RAMON",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 16, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "MONSTERS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 23, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BORRACHOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 25, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "ELECTRICOS QFS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 30, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOS SOCIOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 2, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LA HIELERA",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 7, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BACKYARD BOYZ",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 9, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "CARNALES SPORTS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 16, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "CUBS/OUTLAWZ",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 21, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "NECIOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 23, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOBOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 28, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BREW CREW",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 4, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS DIABLOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 6, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "THUNDER",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 11, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "GOLDEN BOYS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 18, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BSB",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, June 20, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS PETROLEROS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, June 25, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "PERICOS",
+      "homeOrAway": "Home"
+    }
+  ],
+  "LOS SOCIOS": [
+    {
+      "date": "Friday, March 28, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LA HIELERA",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 2, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BACKYARD BOYZ",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 4, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "CARNALES SPORTS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 9, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "CUBS/OUTLAWZ",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 11, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "NECIOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 16, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOBOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 23, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BREW CREW",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 30, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "CERVECEROS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 2, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "THUNDER",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 7, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "GOLDEN BOYS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 9, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BSB",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 14, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS PETROLEROS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 21, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "PERICOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 23, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "FLORES SOFTBALL",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 28, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "ANELLY TRANSPORT",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 4, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "SON'S OF PITCHES",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 6, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "SAN RAMON",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 11, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "MONSTERS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 13, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BORRACHOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 18, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "ELECTRICOS QFS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 20, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS DIABLOS",
+      "homeOrAway": "Away"
+    }
+  ],
+  "LA HIELERA": [
+    {
+      "date": "Friday, March 28, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS SOCIOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 2, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 1",
+      "opponent": "LOS DIABLOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 4, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "BACKYARD BOYZ",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 9, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "CARNALES SPORTS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, April 11, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "CUBS/OUTLAWZ",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, April 16, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "NECIOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, April 23, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 2",
+      "opponent": "LOBOS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, April 25, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BREW CREW",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 2, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "CERVECEROS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 7, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "THUNDER",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 9, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "GOLDEN BOYS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, May 14, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "BSB",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, May 16, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 3",
+      "opponent": "LOS PETROLEROS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 23, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 1",
+      "opponent": "PERICOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Wednesday, May 28, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 3",
+      "opponent": "FLORES SOFTBALL",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Friday, May 30, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "ANELLY TRANSPORT",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 6, 2025",
+      "time": "7:30 pm",
+      "field": "FIELD 3",
+      "opponent": "SON'S OF PITCHES",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 11, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "SAN RAMON",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 13, 2025",
+      "time": "9:30 pm",
+      "field": "FIELD 2",
+      "opponent": "MONSTERS",
+      "homeOrAway": "Home"
+    },
+    {
+      "date": "Wednesday, June 18, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "BORRACHOS",
+      "homeOrAway": "Away"
+    },
+    {
+      "date": "Friday, June 20, 2025",
+      "time": "8:30 pm",
+      "field": "FIELD 2",
+      "opponent": "ELECTRICOS QFS",
+      "homeOrAway": "Home"
+    }
+  ]
+}
